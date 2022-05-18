@@ -7,6 +7,9 @@
 // **Note**: DTOs structs are mapped into Domains here, and Repository protocols does not contain DTOs
 
 import Foundation
+import Common
+import Domain
+import Networking
 
 final class DefaultMoviesRepository {
 

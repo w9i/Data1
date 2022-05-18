@@ -6,6 +6,9 @@
 //
 
 import Foundation
+import Common
+import Domain
+import Networking
 
 final class DefaultPosterImagesRepository {
     

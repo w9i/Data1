@@ -7,6 +7,9 @@
 //
 
 import Foundation
+import Common
+import Domain
+import Networking
 
 // MARK: - Data Transfer Object
 

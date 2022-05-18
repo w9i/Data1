@@ -6,6 +6,9 @@
 //
 
 import Foundation
+import Common
+import Domain
+import Networking
 
 class RepositoryTask: Cancellable {
     var networkTask: NetworkCancellable?
